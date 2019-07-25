@@ -1,6 +1,7 @@
-import { shallowMount } from '@vue/test-utils';
 import Vue from 'vue';
 import VueRouter from 'vue-router';
+import { shallowMount } from '@vue/test-utils';
+
 import App from '@/App.vue';
 
 Vue.use(VueRouter);
